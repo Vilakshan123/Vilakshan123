@@ -7,6 +7,7 @@
 
 - 👋 Hi, I’m VILAKSHAN PANCHAL
 - 👀 I’m interested in coding and working out
+- ⚙️ Currently doing M.TECH CSE
 - 📫 Reach me @vilakshanpanchal147@gmail.com / 232210029@nitdelhi.ac.in
 - 👇 Want to know more details about me 👇:
 
