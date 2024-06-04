@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @Vilakshan123
-- 👀 I’m interested in ...
-- 📫 How to reach me ...
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vector_img_1.png"/>
+
+## 💫 About me:
+
+- 👋 Hi, I’m VILAKSHAN PANCHAL
+- 👀 I’m interested in coding and working out
+- 📫 Reach me @vilakshanpanchal147@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vpanchal2001) 
