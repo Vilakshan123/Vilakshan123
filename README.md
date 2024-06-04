@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/intro_banner.gif" alt="MasterHead" width="1000" height="450"/>
+
 
 
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vector_img_1.png"/>
