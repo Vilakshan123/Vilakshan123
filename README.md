@@ -8,6 +8,7 @@
 - 👋 Hi, I’m VILAKSHAN PANCHAL
 - 👀 I’m interested in coding and working out
 - 📫 Reach me @vilakshanpanchal147@gmail.com
+- 👇 Want to know more details about me 👇:
 
   [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vilakshan_cv.pdf)
 
