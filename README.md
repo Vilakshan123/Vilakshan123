@@ -11,7 +11,7 @@
 - 📫 Reach me @vilakshanpanchal147@gmail.com / 232210029@nitdelhi.ac.in
 - 👇 Want to know more details about me 👇:
 
-  [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vilakshan_cv.pdf)
+  [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vilakshan_resume.pdf)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vpanchal2001) 
