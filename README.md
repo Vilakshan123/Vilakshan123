@@ -8,7 +8,7 @@
 - 👋 Hi, I’m VILAKSHAN PANCHAL
 - 👀 I’m interested in coding and working out
 - ⚙️ Currently doing M.TECH CSE
-- 📫 Reach me @vilakshanpanchal147@gmail.com / 232210029@nitdelhi.ac.in
+- 📫 Reach me @vilakshanpanchal6@gmail.com / 232210029@nitdelhi.ac.in
 - 👇 Want to know more details about me 👇:
 
   [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://raw.githubusercontent.com/Vilakshan123/Vilakshan123/main/vilakshan_resume.pdf)
